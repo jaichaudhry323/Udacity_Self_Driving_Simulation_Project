@@ -9,6 +9,6 @@
 
 <video height="400px" width="400px" src="https://j.gifs.com/r8zLL4.gif"/>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://j.gifs.com/r8zLL4.gif" width="400" height="400" />
 
 
