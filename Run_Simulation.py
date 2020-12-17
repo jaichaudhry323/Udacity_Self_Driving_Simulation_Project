@@ -1,5 +1,4 @@
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
 # cd ./Desktop/1_Working_Driverless-Car-Simulation-master
 # python Run_Simulation.py --path=./models/model-0.0414.h5
@@ -28,23 +27,13 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--ip', type=str,
-                    help='Enter IP address for socket', default = '0.0.0.0')
-parser.add_argument('--min_speed', type=int,
-                    help='Enter Minimum Speed of Car', default = 10)
-parser.add_argument('--max_speed', type=int,
-                    help='Enter Maximum Speed of Car', default = 25)
 parser.add_argument('--path', type=str,
                     help='Enter path to saved model file', default = './model.h5')
-
 
 args = parser.parse_args()
 
 path = args.path
-ip = args.ip
-MAX_SPEED = args.max_speed
-MIN_SPEED = args.min_speed
-speed_limit = MAX_SPEED
+ip = '0.0.0.0'
 
 model = load_model(path)
 
@@ -119,5 +108,5 @@ def telemetry(sid, data):
     
 
 app = socketio.Middleware(sio, app)
-eventlet.wsgi.server(eventlet.listen((ip, 4567)), app)
+eventlet.wsgi.server(eventlet.listen(( '0.0.0.0', 4567)), app)
 
