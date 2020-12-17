@@ -1,3 +1,3 @@
 # Udacity_Self_Driving_Simulation_Project
 
-![Video](udacity_trimmed.mp4)
+<img height="400px" width="400px" src="udacity_trimmed.mp4"/>
