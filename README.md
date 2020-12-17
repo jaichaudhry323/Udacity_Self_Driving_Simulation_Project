@@ -2,7 +2,7 @@
 
 <img height="400px" width="400px" src="udacity_trimmed.mp4"/>
 
-[![Demo CountPages alpha](https://j.gifs.com/r8zLL4.gif)]((https://j.gifs.com/r8zLL4.gif))
+[![Demo CountPages alpha](https://j.gifs.com/r8zLL4.gif)](https://j.gifs.com/r8zLL4.gif)
 
 <div class="row post-image-bg" markdown="0">
     <video width="99%" height="540" autoplay loop muted markdown="1">
