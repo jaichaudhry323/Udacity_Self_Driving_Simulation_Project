@@ -2,6 +2,15 @@
 
 <img height="400px" width="400px" src="udacity_trimmed.mp4"/>
 
+<video height="400px" width="400px" src="udacity_trimmed.mp4"/>
+
+
+<img height="400px" width="400px" src="https://j.gifs.com/r8zLL4.gif"/>
+
+<video height="400px" width="400px" src="https://j.gifs.com/r8zLL4.gif"/>
+
+
+
 [![Demo CountPages alpha](https://j.gifs.com/r8zLL4.gif)](https://j.gifs.com/r8zLL4.gif)
 
 <div class="row post-image-bg" markdown="0">
