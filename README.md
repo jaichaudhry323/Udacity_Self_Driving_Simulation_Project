@@ -10,7 +10,7 @@ Or alternatively create your own dataset from simulator
 
 Download the simulator from this Repo: https://github.com/udacity/self-driving-car-sim
 
-Now After clone this Repo run the Track_1.ipynb file: (Remove any minor errors if any) <br>
+Now after cloning this repo, run the Track_1.ipynb file: (Remove any minor errors if any) <br>
 This will generate a model-xyz.h5 file which is the trained model file
 
 Now open the udacity simulator
