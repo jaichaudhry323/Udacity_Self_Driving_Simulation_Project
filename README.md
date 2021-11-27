@@ -2,6 +2,9 @@
 
 Took me 1.5 months :)
 
+Full Video Link: https://drive.google.com/file/d/1rGX95tF-3ixq8wO0nBBdcbLhtv2EGs98/view
+<br>
+
 ![Working](./udacity.gif)
 
 How to run:
