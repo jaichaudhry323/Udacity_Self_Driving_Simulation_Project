@@ -18,7 +18,7 @@ This will generate a model-xyz.h5 file which is the trained model file
 
 4) Now open the udacity simulator
 
-5)Now run this command in command prompt: `python Run_Simulation.py --path=ABSOLUTE_PATH_TO_MODEL_FILE`
+5) Now run this command in command prompt: `python Run_Simulation.py --path=ABSOLUTE_PATH_TO_MODEL_FILE`
 
 Example:<br>
 `python Run_Simulation.py --path=D:/Downloads/model-0.2385.h5`
